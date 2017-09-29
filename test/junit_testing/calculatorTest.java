@@ -4,7 +4,7 @@ import main.calculator;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.fail;
+
 /**
  *
  * @author Lucky Pratama
